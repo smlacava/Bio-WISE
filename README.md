@@ -7,7 +7,11 @@ Accordingly, this [**performance simulator**](https://livdet.pythonanywhere.com/
 For this reason, we developed a **web application** making the simulator usable by everybody, in a straightforward, flexible, and widespread way:
 
 <p align="center">
-  <img src="https://github.com/smlacava/wapp/blob/main/wapp.png" width="800" title="Webb App">
+  <img src="https://github.com/smlacava/wapp/blob/main/wapp.png" width="800" title="Web App">
+</p>
+
+<p align="center">
+  <img src="https://github.com/smlacava/wapp/blob/main/performance.png" width="800" title="Performance">
 </p>
 
 
