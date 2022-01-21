@@ -11,4 +11,4 @@ For this reason, we developed a **web application** making the simulator usable 
 </p>
 
 
-Go to the [**Wiki**]() for further information.
+Go to the [**Wiki**](https://github.com/smlacava/wapp/wiki) for further information.
